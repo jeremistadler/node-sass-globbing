@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/nico/node-sass-globbing",
   "dependencies": {
-    "glob": "^7.0.5",
-    "gulp-util": "^3.0"
+    "glob": "^7.0.5"
   },
   "devDependencies": {
     "chai": "^2.3.0",
